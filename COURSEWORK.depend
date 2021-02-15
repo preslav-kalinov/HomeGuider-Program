@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1590584112 source:d:\projectsc\Мой упражнения\coursework\main.c
+	"main.h"
+
+1590508787 d:\projectsc\Мой упражнения\coursework\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1591075288 source:d:\projectsc\Мой упражнения\homeguider_coursework\main.c
+	"main.h"
+
+1590925453 d:\projectsc\Мой упражнения\homeguider_coursework\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1593696094 source:d:\projectsc\Курсови работи ПИК1 и ПИК2\homeguider_coursework\main.c
+	"main.h"
+
+1593696049 d:\projectsc\Курсови работи ПИК1 и ПИК2\homeguider_coursework\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
